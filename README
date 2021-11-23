@@ -11,6 +11,12 @@
 
    powershell script
 
+   As an F14B iJump sponsor, setup Digital Guardian for security consideration
+
+   And adding more version of Terminal PC to resolve user queuing
+
+   Develop automation script with Powershell to reduce iJump configuration workloads and saving time for operations, and using Ansible to deploy regular patches for all T-site iJump.
+
 3. Execution
 
    Dns sunset
